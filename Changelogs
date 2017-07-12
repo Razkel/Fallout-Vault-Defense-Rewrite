@@ -36,3 +36,6 @@
   
 //Build B4
   Build B4 Compiled at 11:12 PM on 6/20/2017      Changes: Added base Player Health Bar
+  
+//Build B5
+  Build B5 Compiled at 11:05 PM on 7/11/2017      Changes: Removed weapon spread (will be added again at later date), completely redone how the crosshair, weapon model, and arm model, all interact with the mouse cursor and each other (fixing that annoying issue where the weapon model and arm didn't line up at most view angles). Added weapon recoil system (WIP).
