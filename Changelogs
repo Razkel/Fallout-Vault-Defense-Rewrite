@@ -39,3 +39,6 @@
   
 //Build B5
   Build B5 Compiled at 11:05 PM on 7/11/2017      Changes: Removed weapon spread (will be added again at later date), completely redone how the crosshair, weapon model, and arm model, all interact with the mouse cursor and each other (fixing that annoying issue where the weapon model and arm didn't line up at most view angles). Added weapon recoil system (WIP).
+
+//Build B6
+  Build B6 Compiled at 5:02 PM on 7/13/2017       Changes: Added more crosshair designs, Fixed bullet projectile not coming out of weapons properly, fixed issue were enemy would take damage from bullets mutiple times (causing massive damage, moreso than intended).
