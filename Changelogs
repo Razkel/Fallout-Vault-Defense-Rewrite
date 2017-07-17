@@ -1,44 +1,47 @@
-//Build A1
+//Build A1   2.07 MB
   No description
 
-//Build A2
+//Build A2   2.19 MB
   Build A2 Compiled at 10:56 PM on 5/5/2017       Changes: Completed S.P.E.C.I.A.L System
 
-//Build A3
+//Build A3   2.21 MB
   Build A3 Compiled at 12:09 PM on 5/6/2017       Changes: Completed SPECIAL Menus and is now prepared for further development on other systems.
 
-//Build A4
+//Build A4   2.28 MB
   Build A4 Compiled at 10:06 PM on 5/8/2017       Changes: FO:S Sprites are beginning implementation.
 
-//Build A5
+//Build A5   2.72 MB
   Build A5 Compiled at 10:54 PM on 5/19/2017      Changes: More FO:S Sprites Implemented
 
-//Build A6
+//Build A6   2.51 MB
   Build A5 Compiled at 12:23 PM on 5/21/2017      Changes: Background Creation
 
-//Build A7
+//Build A7   2.44 MB
   Build A7 Compiled at 11:00 PM on 5/26/2017      Changes: Console Command System added, Character Sex selection added, other additions/fixes. Tons of unnecessary assets  removed, drastically decreasing file size.
 
-//Build A8
+//Build A8   2.58 MB
   Build A8 Compiled at 9:24 PM on 5/31/2017       Changes: Recoil Animation for Pistol added, Weapon checking system and crash system added.
 
-//Build A9
+//Build A9   2.86 MB
   Build A9 Compiled at 10:05 PM on 6/1/2017       Changes: Pistol Recoil animation improved, weapon projectile base added, more commands, bug fixes.
 
-//Build B1
+//Build B1   3.22 MB
   Build B1 Compiled at 12:06 PM on 6/7/2017       Changes: Many changes and improvements to aim model and created bullet system.
   
-//Build B2
+//Build B2   3.5 MB
   Build B2 Compiled at 2:20 PM on 6/9/2017        Changes: Added 10mm, Revolver, and Lever Rifle sounds and scripts, added enemy placeholder, added weapon damage
   
-//Build B3
+//Build B3   3.79 MB
   Build B3 Compiled at 12:27 PM on 6/15/2017      Changes: Added rest of weapons
   
-//Build B4
+//Build B4   3.81 MB
   Build B4 Compiled at 11:12 PM on 6/20/2017      Changes: Added base Player Health Bar
   
-//Build B5
+//Build B5   3.81 MB
   Build B5 Compiled at 11:05 PM on 7/11/2017      Changes: Removed weapon spread (will be added again at later date), completely redone how the crosshair, weapon model, and arm model, all interact with the mouse cursor and each other (fixing that annoying issue where the weapon model and arm didn't line up at most view angles). Added weapon recoil system (WIP).
 
-//Build B6
+//Build B6   3.82 MB
   Build B6 Compiled at 5:02 PM on 7/13/2017       Changes: Added more crosshair designs, Fixed bullet projectile not coming out of weapons properly, fixed issue were enemy would take damage from bullets mutiple times (causing massive damage, moreso than intended).
+
+//Build B7   4.57 MB
+  Build B7 Compiled at 1:04 PM on 7/17/2017       Changes: Added the new weapon spread system, added Hud System, Added Action Points
